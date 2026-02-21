@@ -66,7 +66,7 @@ Paramètres WiFi → Modifier le réseau → Proxy → Manuel
 
 Configurer :
 
-Proxy hostname : IP du PC (ex: 10.0.2.2 ou 192.168.1.X)
+Proxy hostname : IP du PC (ex: 10.0.2.2 )
 
 Proxy port : 8080
 ![Aperçu du téléchargement](./3.png)
